@@ -1,0 +1,30 @@
+[submodule "vim/.vim/bundle/tcomment_vim"]
+	path = vim/.vim/bundle/tcomment_vim
+	url = git@github.com:tomtom/tcomment_vim.git
+[submodule "vim/.vim/bundle/nerdtree"]
+	path = vim/.vim/bundle/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
+[submodule "vim/.vim/bundle/vim-surround"]
+	path = vim/.vim/bundle/vim-surround
+	url = git@github.com:tpope/vim-surround.git
+[submodule "vim/.vim/bundle/supertab"]
+	path = vim/.vim/bundle/supertab
+	url = git@github.com:ervandew/supertab.git
+[submodule "vim/.vim/bundle/tlib_vim"]
+	path = vim/.vim/bundle/tlib_vim
+	url = git@github.com:tomtom/tlib_vim.git
+[submodule "vim/.vim/bundle/vim-addon-mw-utils"]
+	path = vim/.vim/bundle/vim-addon-mw-utils
+	url = git@github.com:MarcWeber/vim-addon-mw-utils.git
+[submodule "vim/.vim/bundle/vim-distinguished"]
+	path = vim/.vim/bundle/vim-distinguished
+	url = git@github.com:Lokaltog/vim-distinguished.git
+[submodule "vim/.vim/bundle/vim-nerdtree-tabs"]
+	path = vim/.vim/bundle/vim-nerdtree-tabs
+	url = git@github.com:jistr/vim-nerdtree-tabs.git
+[submodule "vim/.vim/bundle/vim-snipmate"]
+	path = vim/.vim/bundle/vim-snipmate
+	url = git@github.com:garbas/vim-snipmate.git
+[submodule "vim/.vim/bundle/vim-snippets"]
+	path = vim/.vim/bundle/vim-snippets
+	url = git@github.com:honza/vim-snippets.git
